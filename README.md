@@ -1,2 +1,2 @@
 # TubeZoom
-Zoom in on youtube videos
+Browser extension that allows you to zoom in on YouTube videos
